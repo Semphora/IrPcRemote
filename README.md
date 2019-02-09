@@ -1,6 +1,6 @@
 Once more. but better.
-This was supposed to be a quick project that would allow me to use a Digispark a, a 1838B ir sensor and an old Canon RS02 remote to to controll my pc remotely.
-And here we are.
+This was supposed to be a quick project that would allow me to use a Digispark, a 1838B ir sensor and an old Canon RS02 remote to to control my pc remotely.
+And here we are....
 
 What you'll need.
 + a Digispark
